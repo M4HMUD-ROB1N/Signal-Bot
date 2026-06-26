@@ -1,5 +1,0 @@
-python-telegram-bot
-ccxt
-pandas
-numpy
-yfinance
